@@ -1,0 +1,10 @@
+! Title: SpringBoard Tweaks
+! Description: Client-end cosmetic changes to fix and improve the Infosys Springboard Platform
+! Version: 1.0.0
+! Last modified: 11.00 AM 18-04-2026
+! Expires: 365 Days (update frequency)
+! Homepage: https://github.com/5OBHAN/SpringBoard-Tweaks
+! License: https://github.com/5OBHAN/SpringBoard-Tweaks/blob/main/LICENSE
+
+infyspringboard.onwingspan.com##div.home-main-routing.hasHeader.hasFooter { margin: 0 !important; }
+infyspringboard.onwingspan.com##div.home-main-routing { width: auto !important; max-width: none !important; }
