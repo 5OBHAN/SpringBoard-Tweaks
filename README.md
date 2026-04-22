@@ -24,7 +24,7 @@ AdGuard
 </h3>
 <details open>
   <summary>
-    <b> Steps </b> <i>(expand)</i>  
+    <b> Steps </b> 
   </summary>
   <div>
   

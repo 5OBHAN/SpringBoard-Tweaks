@@ -8,3 +8,4 @@
 
 infyspringboard.onwingspan.com##div.home-main-routing.hasHeader.hasFooter { margin: 0 !important; }
 infyspringboard.onwingspan.com##div.home-main-routing { width: auto !important; max-width: none !important; }
+infyspringboard.onwingspan.com##.problem-statement-handson p { color: unset !important; }
